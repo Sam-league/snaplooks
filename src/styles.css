@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  /* outline: 1px solid crimson; */
+}
+body {
+  background-color: #f1f1f1;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn-red {
+}
